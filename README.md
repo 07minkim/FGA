@@ -28,6 +28,10 @@ Having Trouble? See the [Troubleshooting Guide](https://github.com/Fate-Grand-Au
 
 Check the [Troubleshooting Guide](https://github.com/Fate-Grand-Automata/FGA/wiki/Troubleshooting) first if you face any problems.
 
+## Sideloading
+
+To install a custom APK and keep the Accessibility service usable, read the [sideloading guide](docs/SIDELOAD.md).
+
 ## How to make/use images of Servant/CE/Friend?
 
 See the wiki page for [Support Image Maker](https://github.com/Fate-Grand-Automata/FGA/wiki/Support-Image-Maker).
