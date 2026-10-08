@@ -119,7 +119,7 @@ android {
     buildTypes {
         getByName("debug") {
             isDebuggable = true
-            applicationIdSuffix = ".test"
+            applicationIdSuffix = ".fork"
             signingConfig = signingConfigs.getByName("debug")
         }
         getByName("release") {
